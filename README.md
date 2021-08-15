@@ -3,8 +3,23 @@
 <h2 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies</h2>
 
 <p align="center">
+  <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/c.png" alt="C"/>
+  </a>
   <a href="https://www.w3schools.com/cs/index.php">
     <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/csharp.png" alt="C#"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/c%2B%2B.png" alt="C++"/>
+  </a>
+  <a href="https://www.w3schools.com/html/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/html5.png" alt="HTML"/>
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/css.png" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/javascript.gif" alt="JavaScript"/>
   </a>
 </p>
 
