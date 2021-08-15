@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"> Hi there, I'm Gustavo Rivero</h2>
 
-<h2 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies and Languages</h2>
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160">
@@ -19,7 +19,31 @@
     <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/css.png" alt="CSS"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/javascript.gif" alt="JavaScript"/>
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/javascript.png" alt="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/react.png" alt="React.js"/>
+  </a>
+  <a href="https://material-ui.com/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/material-ui.png" alt="Material-UI"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/java.png" alt="Java"/>
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/python.png" alt="Python"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/mysql.png" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/postgresql.png" alt="PostgreSQL"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/git.png" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/github.png" alt="GitHub"/>
   </a>
 </p>
 
