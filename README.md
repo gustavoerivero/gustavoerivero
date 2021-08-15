@@ -1,9 +1,11 @@
 <h2 align="center"><img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"> Hi there, I'm Gustavo Rivero</h2>
 
-<h3 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies</h3>
+<h2 align="center"><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"/> Technologies</h2>
 
 <p align="center">
-  
+  <a href="https://www.w3schools.com/cs/index.php">
+    <img src="https://github.com/gustavoerivero/gustavoerivero/blob/main/assets/icons/csharp.png" alt="C#"/>
+  </a>
 </p>
 
 
