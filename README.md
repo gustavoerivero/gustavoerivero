@@ -6,50 +6,20 @@
 
 <h2>Technologies and Languages <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/></h2>
 
-<p align="justify">
-  <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160">
-    <img src="/assets/icons/c.png" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/index.php">
-    <img src="/assets/icons/csharp.png" alt="C#"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="/assets/icons/c%2B%2B.png" alt="C++"/>
-  </a>
-  <a href="https://www.w3schools.com/html/">
-    <img src="/assets/icons/html5.png" alt="HTML"/>
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="/assets/icons/css.png" alt="CSS"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
-    <img src="/assets/icons/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="/assets/icons/react.png" alt="React.js"/>
-  </a>
-  <a href="https://material-ui.com/">
-    <img src="/assets/icons/material-ui.png" alt="Material-UI"/>
-  </a>
-  <a href="https://www.java.com/">
-    <img src="/assets/icons/java.png" alt="Java"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="/assets/icons/python.png" alt="Python"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="/assets/icons/mysql.png" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="/assets/icons/postgresql.png" alt="PostgreSQL"/>
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="/assets/icons/git.png" alt="Git"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="/assets/icons/github.png" alt="GitHub"/>
-  </a>
-</p>
+[![C](/assets/icons/c.png)](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160)
+[![C#](/assets/icons/csharp.png)](https://www.w3schools.com/cs/index.php)
+[![CPP](/assets/icons/c%2B%2B.png)](https://www.w3schools.com/cpp/)
+[![HTML](/assets/icons/html5.png)](https://www.w3schools.com/html/)
+[![CSS](/assets/icons/css.png)](https://www.w3schools.com/css/)
+[![JavaScript](/assets/icons/javascript.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![React.js](/assets/icons/react.png)](https://reactjs.org/)
+[![Material-UI](/assets/icons/material-ui.png)](https://material-ui.com/)
+[![Java](/assets/icons/java.png)](https://www.java.com/)
+[![Python](/assets/icons/python.png)](https://www.python.org/)
+[![MySQL](/assets/icons/mysql.png)](https://www.mysql.com/)
+[![PostgreSQL](/assets/icons/postgresql.png)](https://www.postgresql.org/)
+[![Git](/assets/icons/git.png)](https://git-scm.com/)
+[![GitHub](/assets/icons/github.png)](https://github.com/)
 
 
 <h2>A little more about me... <img src="https://media.giphy.com/media/J5dm29T4xgwyEnUYYc/giphy.gif" width="35"/></h2>
