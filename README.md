@@ -33,7 +33,7 @@ const gustavoerivero = {
                       ceo: "Flamethyst Studio",
                       student: "Software Enginneer",
                    },
-  challenge: "8th semester student of Software Engineering 
+  challenge: "9th semester student of Software Engineering 
               at the Universidad Centroccidental 'Lisandro Alvarado' 
               (UCLA)"
 }
