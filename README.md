@@ -27,8 +27,8 @@
 ```javascript
 const gustavoerivero = {
   code: [Javascript, HTML, CSS, Python, Java, C++, C#],
-  tools: [React.js, Material-UI],
-  databases: [MySQL, PostgreSQL],
+  tools: [React.js, Material-UI, React Native, Native Base, Vue],
+  databases: [MySQL, PostgreSQL, MongoDB],
   techCommunities: {
                       ceo: "Flamethyst Studio",
                       student: "Software Enginneer",
