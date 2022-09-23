@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Gustavo Rivero <img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"></h2>
 
-* _An 9th semester Software Engineering student at [UCLA](http://www.ucla.edu.ve/)._
+* _An 10th semester Software Engineering student at [UCLA](http://www.ucla.edu.ve/)._
 * _Enthusiastic about learning new programming languages and software technologies._
 * _Flamethyst Studio Founder and CEO._
 
@@ -33,7 +33,7 @@ const gustavoerivero = {
                       ceo: "Flamethyst Studio",
                       student: "Software Enginneer",
                    },
-  challenge: "9th semester student of Software Engineering 
+  challenge: "10th semester student of Software Engineering 
               at the Universidad Centroccidental 'Lisandro Alvarado' 
               (UCLA)"
 }
