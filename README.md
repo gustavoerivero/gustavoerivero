@@ -13,6 +13,7 @@
 [![CSS](/assets/icons/css.png)](https://www.w3schools.com/css/)
 [![JavaScript](/assets/icons/javascript.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![React.js](/assets/icons/react.png)](https://reactjs.org/)
+[![Vue.js](/assets/icons/vue.png)](https://vuejs.org/)
 [![Material-UI](/assets/icons/material-ui.png)](https://material-ui.com/)
 [![Java](/assets/icons/java.png)](https://www.java.com/)
 [![Python](/assets/icons/python.png)](https://www.python.org/)
