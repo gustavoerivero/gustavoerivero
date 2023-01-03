@@ -50,6 +50,5 @@ const gustavoerivero = {
 ---
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gustavoerivero.gustavoerivero)
 
 _⌨️ with ❤️ by [@gustavoerivero](https://github.com/gustavoerivero)_
