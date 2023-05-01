@@ -1,9 +1,10 @@
 <h2>Hi there, I'm Gustavo Rivero <img src="./assets/icons/Cloud.gif" width="35"></h2>
 
-* _Software Engineering at [UCLA](http://www.ucla.edu.ve/)._
-* _Enthusiastic about learning new programming languages and software technologies._
-* _Flamethyst Studio Founder and CEO._
-
+* _Software engineer at [UCLA](http://www.ucla.edu.ve/)._ 
+* _Enthusiastic about learning new software technologies._
+* _Video game fanatic (especially RPGs)._
+* _Founder of Flamethyst Studio._
+  
 <h2>A little more about me... <img src="./assets/icons/Aeris.gif" width="35"/></h2>
 
 ```javascript
@@ -11,6 +12,7 @@ import { SoftwareEngineering } from 'UCLA'
 
 let gustavoerivero = {
   pronouns: "He" | "Him",
+  alias: "goosestabbo",
   roles: ["Software Engineer", "FrontEnd Developer"],
   askMeAbout: ["web-dev", "mobile-dev", "tech", "games"],
   technologies: {
