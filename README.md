@@ -1,51 +1,59 @@
-<h2>Hi there, I'm Gustavo Rivero <img src="https://media.giphy.com/media/EzNwZBbRMFW01B4Cvu/giphy.gif" width="35"></h2>
+<h2>Hi there, I'm Gustavo Rivero <img src="./assets/icons/Cloud.gif" width="35"></h2>
 
 * _Software Engineering at [UCLA](http://www.ucla.edu.ve/)._
 * _Enthusiastic about learning new programming languages and software technologies._
 * _Flamethyst Studio Founder and CEO._
 
-<h2>Technologies and Languages <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/></h2>
-
-[![C](/assets/icons/c.png)](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160)
-[![C#](/assets/icons/csharp.png)](https://www.w3schools.com/cs/index.php)
-[![CPP](/assets/icons/c%2B%2B.png)](https://www.w3schools.com/cpp/)
-[![HTML](/assets/icons/html5.png)](https://www.w3schools.com/html/)
-[![CSS](/assets/icons/css.png)](https://www.w3schools.com/css/)
-[![JavaScript](/assets/icons/javascript.png)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![React.js](/assets/icons/react.png)](https://reactjs.org/)
-[![Vue.js](/assets/icons/vue.png)](https://vuejs.org/)
-[![Material-UI](/assets/icons/material-ui.png)](https://material-ui.com/)
-[![Java](/assets/icons/java.png)](https://www.java.com/)
-[![Python](/assets/icons/python.png)](https://www.python.org/)
-[![MySQL](/assets/icons/mysql.png)](https://www.mysql.com/)
-[![PostgreSQL](/assets/icons/postgresql.png)](https://www.postgresql.org/)
-[![Git](/assets/icons/git.png)](https://git-scm.com/)
-[![GitHub](/assets/icons/github.png)](https://github.com/)
-
-
-<h2>A little more about me... <img src="https://media.giphy.com/media/J5dm29T4xgwyEnUYYc/giphy.gif" width="35"/></h2>
+<h2>A little more about me... <img src="./assets/icons/Aeris.gif" width="35"/></h2>
 
 ```javascript
-const gustavoerivero = {
-  code: [Javascript, HTML, CSS, Python, Java, C++, C#],
-  tools: [React.js, Material-UI, React Native, Native Base, Vue],
-  databases: [MySQL, PostgreSQL, MongoDB],
-  techCommunities: {
-                      ceo: "Flamethyst Studio",
-                      student: "Software Enginneer",
-                   },
-  challenge: "10th semester student of Software Engineering 
-              at the Universidad Centroccidental 'Lisandro Alvarado' 
-              (UCLA)"
+import { SoftwareEngineering } from 'UCLA'
+
+let gustavoerivero = {
+  pronouns: "He" | "Him",
+  roles: ["Software Engineer", "FrontEnd Developer"],
+  askMeAbout: ["web-dev", "mobile-dev", "tech", "games"],
+  technologies: {
+    frontEnd: {
+      languages: ["JavaScript", "TypeScript"],
+      frameworks: ["React.js", "React Native", "Vue.js"],
+      styling: ["Material UI", "Native Base", "BootstrapVue", "bootstrap"]
+    },
+    backEnd: {
+      languages: ["JavaScript", "TypeScript", "Java"],
+      frameworks: ["Express.js", "SpringBoot"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    basicKnowledge: ["Python", "C++", "C#"],
+    misc: ["Socket.IO", "SCRUM"]
+  },
+  techCommunities: ["Flamethyst Studio"],
+  challenge: {
+    dev: "Learn about game development",
+    social: "Experience other cultures and places"
+  }
 }
+
+const SoftwareEngineer =  SoftwareEngineering(gustavoerivero)
+
+
+export default SoftwareEngineer
 ```
 
-<h2>Social media <img src="https://media.giphy.com/media/ES5LNnivZfL72WROvF/giphy.gif" width="35"/></h2>
+<h2>Connect with me <img src="./assets/icons/Sephiroth.gif" width="35"/></h2>
 
-[![Instagram](/assets/icons/instagram.png)](https://www.instagram.com/gustavoerivero/)
-[![Twitter](/assets/icons/twitter.png)](https://twitter.com/goosecode_)
-[![LinkedIn](/assets/icons/linkedin.png)](https://www.linkedin.com/in/gustavoerivero/)
-[![GitHub](/assets/icons/github.png)](https://github.com/gustavoerivero)
+<br />
+
+<p align='center'>
+<a href='https://www.linkedin.com/in/gustavoerivero/' target='_blank' ><img src='https://img.shields.io/badge/LinkedIn-gustavoerivero-blue?style=flat&logo=linkedin' alt="Gustavo Rivero's LinkedIn" /></a>
+<a href='mailto:gustavoerivero12@gmail.com' target='_blank' ><img src='https://img.shields.io/badge/Gmail-gustavoerivero12%40gmail.com-red?style=flat&logo=gmail' alt="Gustavo Rivero's Email" /></a>
+<a href='https://www.hackerrank.com/gustavoerivero' target='_blank' ><img src='https://img.shields.io/badge/HackerRank-gustavoerivero-brightgreen?style=flat&logo=hackerrank' alt="Gustavo Rivero's HackerRank" /></a>
+<a href='https://www.npmjs.com/~goosestabbo' target='_blank' ><img src='https://img.shields.io/badge/NPM-goosestabbo-red?style=flat&logo=npm' alt="Gustavo Rivero's NPM" /></a>
+<a href='https://t.me/goosestabbo' target='_blank' ><img src='https://img.shields.io/badge/Telegram-%40goosestabbo-blue?style=f;at&logo=telegram' alt="Gustavo Rivero's Telegram" /></a>
+</p>
+
+<br />
+
 
 ---
 
