@@ -38,7 +38,6 @@ let gustavoerivero = {
 
 const SoftwareEngineer =  SoftwareEngineering(gustavoerivero)
 
-
 export default SoftwareEngineer
 ```
 
