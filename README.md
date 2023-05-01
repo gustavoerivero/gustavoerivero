@@ -1,22 +1,5 @@
 <h2>Hi there, I'm Gustavo Rivero <img src="./assets/icons/Cloud.gif" width="35"></h2>
 
-<body>
-  <div id="personal-list"></div>
-  <script>
-    const text = 'Hello world'
-    const container = document.getElementById('personal-list')
-    let counter = 0
-    const addText = () => {
-      container.innerHTML += text.charAt(counter)
-      counter++
-      if (counter < text.length) {
-        setTimeout(addText, 50)
-      }
-    }
-    setTimeout(addText, 1000)
-  </script>
-</body>
-
 * _Software engineer at [UCLA](http://www.ucla.edu.ve/)._ 
 * _Enthusiastic about learning new software technologies._
 * _Video game fanatic (especially RPGs)._
