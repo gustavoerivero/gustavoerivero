@@ -22,12 +22,12 @@ let gustavoerivero = {
       styling: ["Material UI", "Native Base", "BootstrapVue", "bootstrap"]
     },
     backEnd: {
-      languages: ["JavaScript", "TypeScript", "Java"],
-      frameworks: ["Express.js", "SpringBoot"]
+      languages: ["JavaScript", "TypeScript", "Java", "C#"],
+      frameworks: ["Express.js", "SpringBoot", ".NET"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
     basicKnowledge: ["Python", "C++", "C#"],
-    misc: ["Socket.IO", "SCRUM"]
+    misc: ["Socket.IO", "SCRUM", "Vercel"]
   },
   techCommunities: ["Flamethyst Studio"],
   challenge: {
