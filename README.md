@@ -18,7 +18,7 @@ let gustavoerivero = {
   technologies: {
     frontEnd: {
       languages: ["JavaScript", "TypeScript"],
-      frameworks: ["React.js", "React Native", "Vue.js"],
+      frameworks: ["React.js", "Next.js", "React Native", "Vue.js"],
       styling: ["Material UI", "Native Base", "BootstrapVue", "bootstrap"]
     },
     backEnd: {
@@ -26,7 +26,7 @@ let gustavoerivero = {
       frameworks: ["Express.js", "SpringBoot", ".NET"]
     },
     databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    basicKnowledge: ["Python", "C++", "C#"],
+    basicKnowledge: ["Python", "C++"],
     misc: ["Socket.IO", "SCRUM", "Vercel"]
   },
   techCommunities: ["Flamethyst Studio"],
