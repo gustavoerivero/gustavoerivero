@@ -8,13 +8,13 @@
 <h2>A little more about me... <img src="./assets/icons/Aeris.gif" width="35"/></h2>
 
 ```javascript
-import { SoftwareEngineering } from 'UCLA'
+import { SoftwareEngineering } from "UCLA";
 
-let gustavoerivero = {
+const gustavoerivero = {
   pronouns: "He" | "Him",
   alias: "goosestabbo",
-  roles: ["Software Engineer", "FrontEnd Developer"],
-  askMeAbout: ["web-dev", "mobile-dev", "tech", "games"],
+  roles: ["Software Engineer"],
+  askMeAbout: ["dev", "tech", "games"],
   technologies: {
     frontEnd: {
       languages: ["JavaScript", "TypeScript"],
@@ -22,10 +22,10 @@ let gustavoerivero = {
       styling: ["Material UI", "Native Base", "BootstrapVue", "bootstrap"]
     },
     backEnd: {
-      languages: ["JavaScript", "TypeScript", "Java", "C#"],
-      frameworks: ["Express.js", "SpringBoot", ".NET"]
+      languages: ["JavaScript", "TypeScript", "C#", "Java"],
+      frameworks: ["Express.js", ".NET", "SpringBoot"]
     },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
+    databases: ["MongoDB", "SQL Server", "PostgreSQL", "MySQL"],
     basicKnowledge: ["Python", "C++"],
     misc: ["Socket.IO", "SCRUM", "Vercel"]
   },
@@ -34,11 +34,11 @@ let gustavoerivero = {
     dev: "Learn about game development",
     social: "Experience other cultures and places"
   }
-}
+};
 
-const SoftwareEngineer =  SoftwareEngineering(gustavoerivero)
+const SoftwareEngineer = SoftwareEngineering(gustavoerivero);
 
-export default SoftwareEngineer
+export default SoftwareEngineer;
 ```
 
 <h2>Connect with me <img src="./assets/icons/Sephiroth.gif" width="35"/></h2>
